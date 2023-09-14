@@ -1,0 +1,64 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+
+.heading{
+  color: red;
+  text-decoration: dashed;
+}
+
+img{
+    width: 30%;
+   
+}
+
+.img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+} */
+
+
+/* .red{
+  color: red;
+  font-size: 23px;
+} */
+
+
+/* ***********ACTIVITY*******small project color picker style***/ 
+
+/* .maindiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#box{
+  width: 500px;
+  height: 234px;
+  border: 1px solid black;
+
+} */
+
+
+div{
+  width: 244px;
+  height: 244px;
+  background-color: red;
+}
+
+
+.para{
+  color: red;
+  font-size: 34px;
+  background-color: black;
+}
+
+
+.colorBtn{
+  background-color:  green;
+}
